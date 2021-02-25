@@ -12,7 +12,7 @@ function Home() {
             <input
               className="form-control mr-sm-2"
               type="search"
-              placeholder="Search"
+              placeholder="Isso nn funciona"
               aria-label="Search"
             />
             <button className="btn btn-outline-success my-2 my-sm-0">
@@ -48,6 +48,13 @@ function Home() {
             </button>
           </div>
         </div>
+        <br />
+        <footer style={{ marginTop: "10rem" }}>
+          Created by:{" "}
+          <a href="https://twitter.com/NenemDaMya" style={{ color: "yellow" }}>
+            Alice
+          </a>
+        </footer>
       </div>
     </div>
   );

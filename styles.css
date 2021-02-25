@@ -10,21 +10,27 @@ body {
 }
 
 .team {
-  height: 100vh;
   position: relative;
-  background-color: rgba(32, 64, 65, 0.6);
-  background-size: cover;
-  background-repeat: no-repeat;
+  height: 100vh;
 }
 
 .team::before {
   content: "";
-  position: absolute;
+  position: fixed;
   top: 0px;
   right: 0px;
   bottom: 0px;
   left: 0px;
+  background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
   background-image: url(./img/background.jpg);
+}
+
+footer {
+  position: relative;
+  color: #ffffff;
+  font-size: 1rem;
+  line-height: 0.9;
+  text-align: center;
 }
