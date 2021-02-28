@@ -9,6 +9,7 @@ export default function MyApp({ Component, pageProps }) {
   return (
     <div>
       <Head>
+        <title>Sorakopatas</title>
         <link rel="shortcut icon" href={icon} />
         <link
           rel="stylesheet"

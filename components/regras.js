@@ -3,13 +3,18 @@ import React from "react";
 function Regras() {
   return (
     <div className="col-md-8 offset-md-2 info" style={{ marginTop: "36px" }}>
+      <h2 className="text-center">
+        Seja uma <strong style={{ color: "yellow" }}>banana sensata</strong>!
+      </h2>
       <p className="text-center txt-opc" style={{ fontSize: "20px" }}>
-        <p className="text-center txt-opc" style={{ fontSize: "20px" }}>
-          Quaisquer regras quebradas, resultará em punição com severidade <br />
-          baseada na regra violada. Para evitar punições, leia as regras <br />
-          com cuidado e sempre se lembre de ser uma banana sensata!
-        </p>
-        <h1>Regras:</h1>
+        Quaisquer regras quebradas, resultará em punição com severidade <br />
+        baseada na regra violada. Para evitar punições, leia as regras <br />
+        com cuidado e sempre se lembre de ser uma banana sensata!
+      </p>
+
+      <h2 className="text-center">Regras:</h2>
+
+      <p className="text-center txt-opc" style={{ fontSize: "20px" }}>
         • Antes de tudo, esse é um servidor de Sorakopatas, toda e qualquer
         menção de teor jannista, resultará no cargo banana podre, sem retirada
         prévia.
@@ -41,8 +46,9 @@ function Regras() {
 
       <br />
 
+      <h2 className="text-center">Regras do servidor de Minecraft:</h2>
+
       <p className="text-center txt-opc" style={{ fontSize: "20px" }}>
-        <h2>Regras do servidor de Minecraft:</h2>
         • Não quebre construções que não são suas; <br />
         • Não pegue itens de outros jogadores; <br />
         • Não mate jogadores propositalmente; <br />
