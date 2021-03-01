@@ -41,7 +41,7 @@ function Who() {
         </a>
         . <br />
         <a
-          href="https://discord.gg/RVFpfx6"
+          /*href="https://discord.gg/RVFpfx6"*/
           style={{ color: "lightblue", textDecoration: "underline" }}
         >
           Entre no{" "}

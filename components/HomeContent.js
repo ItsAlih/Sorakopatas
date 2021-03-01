@@ -21,7 +21,7 @@ function HomeContent() {
       <p className="text-center" style={{ fontSize: "20px" }}>
         Você está na página principal! <br />
         Este site é apenas um teste para um futuro site completo do servidor{" "}
-        <a href="https://discord.gg/RVFpfx6" style={{ color: "yellow" }}>
+        <a /*href="https://discord.gg/RVFpfx6"*/ style={{ color: "yellow" }}>
           <strong style={{ color: "yellow" }}>Sorakopatas</strong>
         </a>
         <br />
@@ -64,7 +64,7 @@ function HomeContent() {
           marginTop: "16px",
         }}
       >
-        <button className="btn btn-success" onClick={discordInviteButton}>
+        <button className="btn btn-success" /*onClick={discordInviteButton}*/>
           Entre em nosso servidor!
         </button>
       </div>

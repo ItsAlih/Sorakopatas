@@ -29,8 +29,9 @@ function Regras() {
         sexual.
         <br />
         • É proibido utilizar o @ everyone, apenas os bots, admins e mods podem
-        fazer isso. - Não divulgue nenhum tipo de informação pessoal (ex:
-        Facebook, nome, Twitter, etc) dos membros sem a permissão do mesmo.
+        fazer isso. <br />
+        • Não divulgue nenhum tipo de informação pessoal (ex: Facebook, nome,
+        Twitter, etc) dos membros sem a permissão do mesmo.
         <br />
         • Utilize nicks sem caracteres especiais para que possam ser marcados
         pela administração. Caso não cumpra, seu nick será mudado sem aviso
